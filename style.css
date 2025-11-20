@@ -677,6 +677,8 @@ body {
         padding: 40px;
         grid-template-columns: 1fr;
         gap: 40px;
+        display: flex;
+        flex-wrap: wrap;
     }
     
     .footer {
