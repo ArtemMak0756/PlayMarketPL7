@@ -1,0 +1,18 @@
+{
+  "name": "Crystal Soul – TCG Card Battle! – Taktyczna karciana przygoda i starcia o potęgę krystalicznych światów | Larvenastoria",
+  "short_name": "Crystal Soul – TCG Card Battle! – G",
+"description": "Crystal Soul – TCG Card Battle! to dynamiczna gra karciana, w której tworzysz własną talię, odkrywasz mistyczne światy i prowadzisz strategiczne pojedynki pełne magii oraz taktycznych decyzji.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "pl",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
